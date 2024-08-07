@@ -2,7 +2,7 @@
 
 :root {
     --color-principal: #900582;
-    --color-secundario: #d4983e;
+    --color-secundario: #ec552b;
     --color-terciario: #fff;
     --color-oscuro: #252525;
     --texto-principal: 'Poppins', sans-serif;
@@ -133,7 +133,7 @@ body {
     justify-content:center;
     align-items: center;
     margin-top: 20px;
-    background-color: var(--color-principal);
+    background-color: var(--color-secundario);
     align-items: center;
     height: 50px;
 }
